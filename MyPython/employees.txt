@@ -1,0 +1,7 @@
+Jim - Salesman -  155000
+Dwight - Salesman - 200000
+Pam - Receptionist -58000
+Michael - Manager - 300000
+Oscar - Accountant - 80000
+Toby - Human Resources - 95000
+Kelly - Custommer Service - 25000
